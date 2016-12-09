@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">భాషా టెస్ట్</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ఇమెయిల్</string>
+    <string name="prompt_password">పాస్వర్డ్</string>
+    <string name="action_sign_in">సైన్ ఇన్ రిజిస్ట్రేషన్</string>
+    <string name="action_sign_in_short">సైన్ ఇన్</string>
+    <string name="error_invalid_email">ఈ ఇమెయిల్ చిరునామా చెల్లదు</string>
+    <string name="error_invalid_password">ఈ పాస్వర్డ్ చాలా చిన్నదిగా ఉంది</string>
+    <string name="error_incorrect_password">ఈ పాస్వర్డ్ సరైనది కాదు</string>
+    <string name="error_field_required">ఈ ఖాళీని తప్పనిసరిగా పూరించవలెను</string>
+    <string name="language">భాషా</string>
+    <string name="languageTitle">భాష మార్పును</string>
+</resources>

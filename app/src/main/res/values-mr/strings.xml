@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">भाषा कसोटी</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ई-मेल</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">साइन इन करा किंवा नोंदणी</string>
+    <string name="action_sign_in_short">साइन इन करा</string>
+    <string name="error_invalid_email">हा ईमेल पत्ता अवैध आहे</string>
+    <string name="error_invalid_password">या संकेतशब्द खूप लहान आहे</string>
+    <string name="error_incorrect_password">या पासवर्ड चुकीचा आहे</string>
+    <string name="error_field_required">हे फील्ड आवश्यक आहे</string>
+    <string name="language">भाषा</string>
+    <string name="languageTitle">भाषा बदला</string>
+</resources>

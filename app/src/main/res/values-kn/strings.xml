@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ಭಾಷಾ ಟೆಸ್ಟ್</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ಇಮೇಲ್</string>
+    <string name="prompt_password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="action_sign_in">ಸೈನ್ ಇನ್ ನೊಂದಣಿ</string>
+    <string name="action_sign_in_short">ಸೈನ್ ಇನ್</string>
+    <string name="error_invalid_email">ಈ ಇಮೇಲ್ ವಿಳಾಸ ಅಮಾನ್ಯವಾಗಿದೆ</string>
+    <string name="error_invalid_password">ಈ ಪಾಸ್ವರ್ಡ್ ತುಂಬಾ ಚಿಕ್ಕದಾಗಿದೆ</string>
+    <string name="error_incorrect_password">ಈ ಪಾಸ್ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ</string>
+    <string name="error_field_required">ಈ ಜಾಗ ಬೇಕಾಗಿದೆ</string>
+    <string name="language">ಭಾಷಾ</string>
+    <string name="languageTitle">ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+</resources>
